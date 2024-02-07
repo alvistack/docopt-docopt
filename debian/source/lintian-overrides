@@ -1,0 +1,5 @@
+python-docopt source: file-without-copyright-information
+python-docopt source: no-debian-changes
+python-docopt source: source-contains-prebuilt-windows-binary
+python-docopt source: source-is-missing
+python-docopt source: source-package-encodes-python-version
