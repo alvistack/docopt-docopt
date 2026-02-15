@@ -32,3 +32,5 @@ nosetests.xml
 
 # Sphinx
 docs/_*
+
+.pybuild/
